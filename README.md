@@ -1,10 +1,10 @@
 
 # ✈️ Flight Reservation System – SQL Project
 
-## 📌 Project Overview
+##  Project Overview
 This project is a complete SQL-based **Flight Reservation System** designed to manage flight schedules, bookings, payments, and passenger information. It is ideal for academic submissions, resumes, or backend practice.
 
-## 🗃️ Database Design
+## Database Design
 
 ### Tables:
 - **Passengers**: Stores passenger details
@@ -14,20 +14,20 @@ This project is a complete SQL-based **Flight Reservation System** designed to m
 - **Bookings**: Stores passenger bookings and status
 - **Payments**: Tracks payment information for bookings
 
-📊 **[ER Diagram Included](./flight_reservation_er_diagram.png)**
+ **[ER Diagram Included](./flight_reservation_er_diagram.png)**
 
-## 🔑 Features
+## Features
 - Add and manage flight schedules
 - Book tickets for passengers
 - Track payment for each booking
 - View upcoming flights and booking history
 - Query total revenue for each flight
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **SQL**
 - Compatible with MySQL / PostgreSQL / SQLite
 
-## 🧪 Sample Queries
+##  Sample Queries
 
 ### 1. Available Flights from Hyderabad to Bangalore:
 ```sql
@@ -57,7 +57,7 @@ WHERE f.flight_id = 1001
 GROUP BY f.flight_id;
 ```
 
-## 📁 Files Included
+##  Files Included
 - `flight_reservation_system.sql` – Full database schema and data
 - `flight_reservation_er_diagram.png` – ER diagram of the system
 - `README.md` – This documentation
@@ -70,5 +70,5 @@ Final Year B.Tech | Computer Science & AI
 [LinkedIn](#) | [GitHub](#)
 
 ---
-✅ Perfect for resume, interviews, or internships!
+ Perfect for resume, interviews, or internships!
 
