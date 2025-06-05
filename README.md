@@ -64,7 +64,7 @@ GROUP BY f.flight_id;
 
 ---
 
-## 📚 Author
+## Author
 **Bharath Kumar**  
 Final Year B.Tech | Computer Science & AI  
 [LinkedIn](#) | [GitHub](#)
